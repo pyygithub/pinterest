@@ -1,0 +1,22 @@
+
+* {
+    padding:0;
+    margin:0;
+}
+
+#container {
+    padding: 0 10px;
+    background: #fff;
+}
+
+.img-box {
+    position: relative;
+    float: left;
+}
+.img-box .content {
+    padding: 5px;
+}
+.img-box .content img{
+    width: 190px;
+    height: auto;
+}
